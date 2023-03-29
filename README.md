@@ -1,4 +1,4 @@
-# Hey Folks👨🏻‍💻, Warm Welcome!!🖐
+# Hey Folks, Warm Welcome!!🖐
 <img align="left" src ="https://github-readme-stats.vercel.app/api?username=Fax-ofJax&show_icons=true&theme=transparent" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fax-ofJax&layout=compact" />
 <img align ="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
